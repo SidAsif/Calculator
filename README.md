@@ -1,8 +1,8 @@
-# Responsive Calculator
+# Calculator
 
 ## Overview
 
-This project is a simple, responsive calculator web application that supports basic arithmetic operations. The calculator is designed to work seamlessly across various screen sizes, from mobile devices to desktop screens. It includes a dark mode toggle for better accessibility and user experience.
+This project is a simple,  calculator web application that supports basic arithmetic operations. It includes a dark mode toggle for better accessibility and user experience.
 
 ## Features
 
