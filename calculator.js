@@ -1,5 +1,5 @@
 // script.js
-const resultInput = document.getElementById('result');
+const resultInput = document.querySelector('.result');
 const buttons = document.querySelectorAll('.button');
 
 let expression = '';
