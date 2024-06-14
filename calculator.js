@@ -32,10 +32,8 @@ const container = document.getElementsByClassName('container')[0];
 toggle.addEventListener('click', function () {
     this.classList.toggle('bi-moon');
     if (this.classList.toggle('bi-brightness-high-fill')) {
-        container.style.background = ' #D9AFD9';
-        container.style.background = 'linear-gradient(0deg, #D9AFD9 0%, #95c6cb 100%) ';
-        body.style.background = 'rgb(2,0,36)';
-        body.style.background = 'linear-gradient(90deg, rgb(128, 123, 229) 0%, rgba(241, 122, 204, 0.564) 20%, rgb(117, 219, 239) 140%)';
+        container.style.background = ' #071013';
+        body.style.background = '#DADFF7;
         body.style.color = 'black';
         body.style.transition = '2s';
     }
