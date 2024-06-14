@@ -16,7 +16,7 @@ body {
 
 .container {
     background-color:#071013;
-    border-radius: 20px;
+    border-radius: 8px;
     padding: 2%;
     width: 90%;
     max-width: 400px;
@@ -39,7 +39,6 @@ body {
     height: 3rem;
     width: 5rem;
     border-radius: 5px;
- 
     margin-bottom: 1rem;
 }
 
@@ -86,7 +85,7 @@ i {
 @media (min-width: 600px) {
     .button {
         height: 4rem;
-        font-size: 1.75rem;
+        font-size: 1.2rem;
     }
     .result, #dark-mode {
         height: 4rem;
